@@ -1,3 +1,6 @@
+# Hello World :smile:
+
+Hello World, this repository is made for fun. It aims to collaborate with various developers specialized in different programming languages to contribute Hello World code in their specialized language in this repository.
 
 # How to Collaborate:
 
@@ -57,3 +60,7 @@ $ git merge upstream/master
 ```
 $ git push -f origin master
 ```
+
+# License
+
+[MIT License](LICENSE)
