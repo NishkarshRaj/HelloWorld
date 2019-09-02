@@ -8,7 +8,9 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 2. Update Readme.md with relative link to your code file.
 3. Never work on the master branch.
 
-[How to Contribute??](CONTRIBUTING.md)
+[How to Contribute](CONTRIBUTING.md)
+
+[Code of Conduct](CODE_OF_CONDUCT.md)
 
 # License
 
