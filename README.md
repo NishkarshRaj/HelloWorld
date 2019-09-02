@@ -22,6 +22,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [6. Shell Scripting](Shell%20Scripting)
 
+# Community Contributions
+
 [How to Contribute](CONTRIBUTING.md)
 
 [Code of Conduct](CODE_OF_CONDUCT.md)
