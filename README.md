@@ -32,6 +32,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [11. Golang](Golang%20Programming)
 
+[12. Oracle SQL Plus](SQL%20Plus)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
