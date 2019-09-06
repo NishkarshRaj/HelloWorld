@@ -48,6 +48,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [19. F# Programming](F-Sharp/)
 
+[20. CoffeeScript Programming](CoffeeScript/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
