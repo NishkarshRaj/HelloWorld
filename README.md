@@ -46,6 +46,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [18. Haskell Programming](Haskell/)
 
+[19. F# Programming](F-Sharp/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
