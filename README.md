@@ -52,6 +52,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [21. Perl Programming](Perl%20Programming)
 
+[22. JavaScript Programming](JavaScript%20Programming)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
