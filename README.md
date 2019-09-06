@@ -44,6 +44,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [17. Kotlin Programming](Kotlin/)
 
+[18. Haskell Programming](Haskell/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
