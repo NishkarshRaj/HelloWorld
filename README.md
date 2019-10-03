@@ -54,6 +54,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [22. JavaScript Programming](JavaScript%20Programming)
 
+[23. Brainfuck](Brainfuck/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
