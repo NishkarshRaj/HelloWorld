@@ -58,6 +58,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [24. Dart](Dart/)
 
+[25. Crystal Programming](Crystal%20Programming)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
