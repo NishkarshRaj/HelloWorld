@@ -56,6 +56,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [23. Brainfuck](Brainfuck/)
 
+[24. Dart](Dart/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
