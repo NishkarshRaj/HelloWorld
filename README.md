@@ -60,6 +60,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [25. Crystal Programming](Crystal%20Programming)
 
+[26. Arduino](Arduino/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
