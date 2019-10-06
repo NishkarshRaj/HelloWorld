@@ -68,6 +68,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [29. Erlang](Erlang/)
 
+[30. Cobol](Cobol/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
