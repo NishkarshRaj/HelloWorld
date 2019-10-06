@@ -64,6 +64,10 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [27. Elixir](Elixir/)
 
+[28. VB.net](VB.net/)
+
+[29. Erlang](Erlang/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
