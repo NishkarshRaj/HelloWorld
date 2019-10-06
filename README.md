@@ -62,6 +62,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [26. Arduino](Arduino/)
 
+[27. Elixir](Elixir/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
