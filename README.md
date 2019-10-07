@@ -74,6 +74,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [32. Pascal](Pascal/)
 
+[33. Objective-C](Objective-C/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
