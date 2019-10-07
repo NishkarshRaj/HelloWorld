@@ -74,6 +74,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [32. Pascal](Pascal/)
 
+[33. Julia](Julia/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
