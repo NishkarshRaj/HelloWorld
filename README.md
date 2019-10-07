@@ -72,6 +72,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [31. ReactJS](ReactJS/)
 
+[32. Pascal](Pascal/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
