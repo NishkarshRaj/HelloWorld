@@ -78,6 +78,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [34. Julia](Julia/)
 
+[35. Bash](Bash/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
