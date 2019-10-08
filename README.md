@@ -76,6 +76,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [33. Objective-C](Objective-C/)
 
+[34. Julia](Julia/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
