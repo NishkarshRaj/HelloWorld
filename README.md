@@ -80,6 +80,10 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [35. Bash](Bash/)
 
+[36. Lolcode](lolcode/)
+
+[37. Powershell](PowerShell/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
