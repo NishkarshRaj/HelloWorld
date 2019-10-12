@@ -29,6 +29,7 @@ $ git commit -m "Name| files| Changes"
 ```
 $ git push -u origin branchname
 ```
+7. Create a pull request to the upstream repository.
 
 # Synchronize forked repository with Upstream repository
 
