@@ -88,6 +88,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [39. Cow Esolang](COW%20-%20Esolang)
 
+[40. Visual Basic](Visual%20Basic)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
