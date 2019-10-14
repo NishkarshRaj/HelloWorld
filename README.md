@@ -86,6 +86,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [38. Bosque](Bosque/)
 
+[39. Cow Esolang](COW%20-%20Esolang)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
