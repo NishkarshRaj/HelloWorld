@@ -4,7 +4,7 @@ int main() {
     int i, n;
     cin >> n;
     for (i=0; i<n; i++) {
-        cout << "hello world\n";
+        cout << "hello world"<< endl;
     }
     return 0;
 }
