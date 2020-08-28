@@ -94,6 +94,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [42. Windows Command line](Windows%20Command%20Line)
 
+[43. Solidity](Solidity)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
