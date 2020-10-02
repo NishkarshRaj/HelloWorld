@@ -102,6 +102,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [46. Octave](Octave)
 
+[47. NextJS](NextJS)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
