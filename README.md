@@ -96,6 +96,10 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [43. Solidity](Solidity)
 
+[44.](Lua/)
+
+[45. MATLAB](MATLAB/)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
