@@ -96,7 +96,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [43. Solidity](Solidity)
 
-[43. NextJS](NextJS)
+[44. NextJS](NextJS)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
