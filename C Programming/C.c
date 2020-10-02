@@ -1,7 +1,10 @@
-#include<stdio.h>/*-------------Declaring c library-------------*/
-int main()/*---------------WE can use void main() also-----*/
+// Add header files
+#include<stdio.h> 
+
+// Main Driver Code
+int main()
 {
-	/*---------- Printing hello world----------*/
+	// Using printf to send message to console out
 	printf("Hello World!");
 	return 0;
 }
