@@ -96,9 +96,11 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [43. Solidity](Solidity)
 
-[44.](Lua/)
+[44. Lua](Lua/)
 
 [45. MATLAB](MATLAB/)
+
+[46. Octave](Octave)
 
 # Community Contributions
 
