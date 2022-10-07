@@ -106,6 +106,8 @@ Hello World, this repository is made for fun. It aims to collaborate with variou
 
 [48. dlang](dlang)
 
+[49. BASIC](BASIC)
+
 # Community Contributions
 
 [How to Contribute](CONTRIBUTING.md)
